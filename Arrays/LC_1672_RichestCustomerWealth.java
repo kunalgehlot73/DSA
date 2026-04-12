@@ -19,7 +19,7 @@ Time Complexity: O(m * n)
 Space Complexity: O(1)
 */
 
-public class LC_1672_RichestCustomerWealth {
+class LC_1672_RichestCustomerWealth {
     // Calculate maximum wealth
     public static int maximumWealth(int[][] accounts) {
         int maxWealth = Integer.MIN_VALUE;
