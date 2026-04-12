@@ -1,2 +1,2 @@
 # DSA
-DSA practice repository in Java with structured solutions and explanations.
+DSA practice repository in Java with structured Leetcode solutions.
