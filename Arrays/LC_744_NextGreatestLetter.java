@@ -26,7 +26,9 @@ Notes:
 - This is an “upper bound” pattern (first element > target)
 - Guaranteed valid index due to circular condition
 */
+
 class LC_744_NextGreatestLetter {
+    // Find next greatest letter
     public static char nextGreatestLetter(char[] letters, char target) {
         int low = 0, high = letters.length - 1, mid;
         if (target >= letters[high]) {
@@ -43,6 +45,7 @@ class LC_744_NextGreatestLetter {
         return letters[low];
     }
 
+    // main function for testing
     public static void main(String[] args) {
         char[] letters = {'e','e','e','e','e','e','n','n','n','n'};
         char target = 'e';
