@@ -26,7 +26,7 @@ Notes:
 - Search space avoids edges (since peak cannot be at 0 or n-1)
 */
 
-class LC_852_peakIndexMountainArray {
+class LC_852_PeakIndexMountainArray {
 
     // find peak index
     public static int peakIndexInMountainArray(int[] arr) {

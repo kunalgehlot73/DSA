@@ -27,7 +27,7 @@ Notes:
 - This is a “binary search on answer space” pattern
 */
 
-class LC_162_findPeakElement {
+class LC_162_FindPeakElement {
 
     // find peak element
     public static int findPeakElement(int[] nums) {
