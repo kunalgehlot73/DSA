@@ -4,7 +4,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 ## Progress
 [Problems Solved](#problems-solved)
 - Easy: 3
-- Medium: 3
+- Medium: 4
 - Hard: 1
 
 ## Topics & Patterns
@@ -31,6 +31,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [LC 34 - Find First and Last Position](./Arrays/LC_34_SearchRange.java)
 - [LC 852 - Peak Index in Mountain Array](./Arrays/LC_852_PeakIndexMountainArray.java)
 - [LC 162 - Find Peak Element](./Arrays/LC_162_FindPeakElement.java)
+- [LC 33 - Search in Rotated Sorted Array](./Arrays/LC_33_SearchRotatedSortedArray.java)
 
 ### Hard
 - [LC 1095 - Find in Mountain Array](./Arrays/LC_1095_FindInMountainArray.java)
