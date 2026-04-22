@@ -35,4 +35,5 @@ DSA practice repository in Java with structured Leetcode solutions.
 
 ### Hard
 - [LC 1095 - Find in Mountain Array](./Arrays/LC_1095_FindInMountainArray.java)
+- [LC 410 - Split Array Largest Sum](./Arrays/LC_410_SplitArrayLargestSum.java)
 
