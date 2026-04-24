@@ -5,11 +5,12 @@ DSA practice repository in Java with structured Leetcode solutions.
 [Problems Solved](#problems-solved)
 - Easy: 3
 - Medium: 4
-- Hard: 1
+- Hard: 2
 
 ## Topics & Patterns
 
 ### Arrays
+- Basic Array Traversal
 - Linear Search
 - Binary Search
 
@@ -20,6 +21,9 @@ DSA practice repository in Java with structured Leetcode solutions.
 - Upper Bound / Next Greater (LC 744)
 - Mountain Array Peak (LC 852)
 - Search in Mountain Array (LC 1095)
+- Search in Rotated Sorted Array (LC 33)
+- Binary Search on Answer (LC 410)
+- Binary Search in 2D Matrix
 
 ## Problems Solved
 ### Easy
