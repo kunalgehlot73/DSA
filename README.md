@@ -11,8 +11,13 @@ DSA practice repository in Java with structured Leetcode solutions.
 
 ### Arrays
 - Basic Array Traversal
-- Linear Search
-- Binary Search
+- [Linear Search](./Arrays/LinearSearch.java)
+- [Binary Search](./Arrays/BinarySearch.java)
+
+### Sorting
+- [Bubble Sort](./Sorting/BubbleSort.java)
+- [Selection Sort](./Sorting/SelectionSort.java)
+- [Insertion Sort](./Sorting/Insertionsort.java)
 
 ### Binary Search Variants
 - Standard Binary Search
@@ -23,7 +28,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 - Search in Mountain Array (LC 1095)
 - Search in Rotated Sorted Array (LC 33)
 - Binary Search on Answer (LC 410)
-- Binary Search in 2D Matrix
+- [Binary Search in 2D Matrix](./Arrays/BinarySearch_2D.java)
 
 ## Problems Solved
 ### Easy
