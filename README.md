@@ -18,6 +18,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [Bubble Sort](./Sorting/BubbleSort.java)
 - [Selection Sort](./Sorting/SelectionSort.java)
 - [Insertion Sort](./Sorting/Insertionsort.java)
+- [Cyclic Sort](./Sorting/CyclicSort.java)
 
 ### Binary Search Variants
 - Standard Binary Search
