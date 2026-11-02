@@ -30,6 +30,10 @@ DSA practice repository in Java with structured Leetcode solutions.
 - Search in Rotated Sorted Array (LC 33)
 - Binary Search on Answer (LC 410)
 - [Binary Search in 2D Matrix](./Arrays/BinarySearch_2D.java)
+- [Recursive Binary Search](./Recursion/BinarySearch.java)
+
+### Recursion
+- [Fibonacci Number (Multiple Recursive Calls)](./Recursion/NthFibonacci.java)
 
 ## Problems Solved
 ### Easy
