@@ -20,7 +20,7 @@ Notes:
 - Uses divide and conquer
 - Each recursive call eliminates half of the remaining search space
 */
-class BinarySearch {
+class RecursiveBinarySearch {
     public static int binarySearch(int[] arr, int target, int st, int end) {
         if (st > end) {
             return -1;

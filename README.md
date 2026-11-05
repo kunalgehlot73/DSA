@@ -3,7 +3,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 
 ## Progress
 [Problems Solved](#problems-solved)
-- Easy: 7
+- Easy: 8
 - Medium: 6
 - Hard: 3
 
@@ -19,7 +19,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 ### Sorting
 - [Bubble Sort](./Sorting/BubbleSort.java)
 - [Selection Sort](./Sorting/SelectionSort.java)
-- [Insertion Sort](./Sorting/Insertionsort.java)
+- [Insertion Sort](./Sorting/InsertionSort.java)
 - [Cyclic Sort](./Sorting/CyclicSort.java)
 
 ### Binary Search Variants
@@ -32,10 +32,11 @@ DSA practice repository in Java with structured Leetcode solutions.
 - Search in Rotated Sorted Array
 - Binary Search on Answer
 - [Binary Search in 2D Matrix](./Arrays/BinarySearch_2D.java)
-- [Recursive Binary Search](./Recursion/BinarySearch.java)
 
 ### Recursion
+- [Recursive Binary Search](./Recursion/RecursiveBinarySearch.java)
 - [Fibonacci Number (Multiple Recursive Calls)](./Recursion/NthFibonacci.java)
+- Number of Steps to Reduce a Number to Zero (Single Recursive Call)
 
 ## Problems Solved
 ### Easy
@@ -46,6 +47,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [LC 448 - Find All Numbers Disappeared in an Array](./Sorting/LC_448_FindDisappearedNumbers.java)
 - [LC 645 - Set Mismatch](./Sorting/LC_645_SetMismatch.java)
 - [LC 832 - FlipAndInvertImage](./Arrays/LC_832_FlipAndInvertImage.java)
+- [LC 1342 - Number of Steps to Reduce a Number to Zero](./Recursion/LC_1342_StepsToReduceToZero.java)
 
 ### Medium
 - [LC 34 - Find First and Last Position](./Arrays/LC_34_SearchRange.java)

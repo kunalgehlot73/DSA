@@ -27,7 +27,7 @@ Notes:
 
 import java.util.Arrays;
 
-class Insertionsort {
+class InsertionSort {
 
     // Insertion Sort Algorithm
     public static void insertionSort(int[] arr) {
