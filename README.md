@@ -5,7 +5,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 [Problems Solved](#problems-solved)
 - Easy: 8
 - Medium: 7
-- Hard: 3
+- Hard: 4
 
 ## Topics & Patterns
 
@@ -37,7 +37,10 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [Recursive Binary Search](./Recursion/RecursiveBinarySearch.java)
 - [Fibonacci Number (Multiple Recursive Calls)](./Recursion/NthFibonacci.java)
 - Number of Steps to Reduce a Number to Zero (Single Recursive Call)
-- Letter Combinations of a Phone Number (Backtracking)
+
+### Backtracking
+- Letter Combinations of a Phone Number
+- N-Queens
 
 ## Problems Solved
 ### Easy
@@ -57,9 +60,10 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [LC 33 - Search in Rotated Sorted Array](./Arrays/LC_33_SearchRotatedSortedArray.java)
 - [LC 287 - Find the Duplicate Number](./Sorting/LC_287_FindDuplicate.java)
 - [LC 442 - Find All Duplicates in an Array](./Sorting/LC_442_FindAllDuplicates.java)
-- [LC 17 - Letter Combinations of a Phone Number](./Recursion/LC_17_LetterCombinationsPhoneNumber.java)
+- [LC 17 - Letter Combinations of a Phone Number](./Backtracking/LC_17_LetterCombinationsPhoneNumber.java)
 
 ### Hard
 - [LC 1095 - Find in Mountain Array](./Arrays/LC_1095_FindInMountainArray.java)
 - [LC 410 - Split Array Largest Sum](./Arrays/LC_410_SplitArrayLargestSum.java)
 - [LC 41 - First Missing Positive](./Sorting/LC_41_FirstMissingPositive.java)
+- [LC 51 - N-Queens](./Backtracking/LC_51_NQueens.java)
