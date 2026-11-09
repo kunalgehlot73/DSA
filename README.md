@@ -5,7 +5,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 [Problems Solved](#problems-solved)
 - Easy: 8
 - Medium: 7
-- Hard: 4
+- Hard: 5
 
 ## Topics & Patterns
 
@@ -21,6 +21,8 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [Selection Sort](./Sorting/SelectionSort.java)
 - [Insertion Sort](./Sorting/InsertionSort.java)
 - [Cyclic Sort](./Sorting/CyclicSort.java)
+- [Merge Sort](./Sorting/MergeSort.java)
+- [Quick Sort](./Sorting/QuickSort.java)
 
 ### Binary Search Variants
 - Standard Binary Search
@@ -41,6 +43,7 @@ DSA practice repository in Java with structured Leetcode solutions.
 ### Backtracking
 - Letter Combinations of a Phone Number
 - N-Queens
+- Sudoku Solver
 
 ## Problems Solved
 ### Easy
@@ -67,3 +70,4 @@ DSA practice repository in Java with structured Leetcode solutions.
 - [LC 410 - Split Array Largest Sum](./Arrays/LC_410_SplitArrayLargestSum.java)
 - [LC 41 - First Missing Positive](./Sorting/LC_41_FirstMissingPositive.java)
 - [LC 51 - N-Queens](./Backtracking/LC_51_NQueens.java)
+- [LC 37 - Sudoku Solver](./Backtracking/LC_37_SolveSudoku.java)
